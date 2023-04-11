@@ -9,4 +9,5 @@ def main(x, y):
     Returns:
         int: the value of the expression
     """
-    return
+    return (x**2+6*x**3+3*x*y)
+print(main(5,2))
